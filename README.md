@@ -1,0 +1,1 @@
+# Node.js-Puppeteer-Capturing-Website-Screenshots
